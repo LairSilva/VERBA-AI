@@ -1,0 +1,7 @@
+{
+  "name": "Verba AI",
+  "description": "Unlock fluency with Verba. The AI language coach that listens, speaks, and helps you master English through immersive roleplay.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
